@@ -50,7 +50,6 @@ babipoly/
 │
 ├── main.py
 ├── board.py
-├── player.py
 ├── property.py
 ├── README.md
 └── ...
